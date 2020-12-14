@@ -1,37 +1,19 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/karenmal/Reading-notes-JavaScript-102/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This is my first header
+### What is Markdown?
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-### Markdown
+You can use Markdown most places around GitHub:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Gists
+2. Comments in Issues and Pull Requests
+3. Files with the .md or .markdown extension
 
-```markdown
-Syntax highlighted code block
+For more information, see “Writing on GitHub” in the GitHub Help.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I made this line **bold**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karenmal/Reading-notes-JavaScript-102/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I made this line *italic*
