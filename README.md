@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
 When you continue to learn from your mistakes/setbacks/failures, you are challenging yourself to grow. You are putting in the effort, so you can get the best version of you both professionally and personally.
 
