@@ -19,6 +19,11 @@ You can use Markdown most places around GitHub:
 
 For more information, see “Writing on GitHub” in the GitHub Help.
 
+Growth Mindset | Fixed Mindset
+------------ | -------------
+Embraces challenges | Avoids challenges
+Inspired by success of others | Threatened by success of others
+
 
 I made this line **bold**
 
