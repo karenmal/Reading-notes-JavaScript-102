@@ -1,7 +1,7 @@
 ## Revisions and the Cloud
 ### Version Control:
   * Version control lets you go back to previous versions, you can go back compare changes, track modifications or if your files get corrupt/lost, you can revert back to a previos version. 
-  * Files cna be cloned to your desktop, edit them, and push them back to the cloud. Saving all of your revisions.
+  * Files can be cloned to your desktop, edit them, and push them back to the cloud. Saving all of your revisions.
   
 ### What is GIT:
 1. Distributed Version Control system (DVCS) - data file system made up of snapshots. Every time you commit, a snapshot gets saved for you to revert back if needed. Only saves what has been changed. 
