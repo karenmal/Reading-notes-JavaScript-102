@@ -10,8 +10,8 @@ Making ordered lists
 
 Making unordered lists
 * Bullet list
-   * Nested bullet
-    * Sub-nested bullet etc
+  * Nested bullet
+     * Sub-nested bullet etc
 * Bullet list item 2
 
 I made this line **bold**
