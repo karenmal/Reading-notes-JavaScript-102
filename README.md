@@ -31,7 +31,6 @@ Embraces challenges | Avoids challenges
 Inspired by success of others | Threatened by success of others
 
 
-
 [Revisions_and_the_cloud](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/Revisions_and_the_cloud.md)
 
 
