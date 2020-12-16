@@ -18,4 +18,4 @@ I made this line **bold**
 
 I made this line *italic*
 
-[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102)
+[Back to Table of Contents](https://karenmal.github.io/Reading-notes-JavaScript-102/)
