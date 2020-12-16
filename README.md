@@ -1,5 +1,6 @@
 ## Table of Contents
 
+- [Intro](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/intro.md)
 - [Samples](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/samples.md)
 - [Growth Mindsest](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/growth_mindset.md)
 - [Git Hub](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/Git_hub_files.md)
