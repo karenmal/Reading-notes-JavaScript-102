@@ -9,9 +9,10 @@ Making ordered lists
 3. List3
 
 Making unordered lists
-• List 1
-• List2
-• List3
+* Bullet list
+   * Nested bullet
+         * Sub-nested bullet etc
+* Bullet list item 2
 
 I made this line **bold**
 
