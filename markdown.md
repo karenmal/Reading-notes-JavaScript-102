@@ -9,4 +9,4 @@ You can use Markdown most places around GitHub:
 
 For more information, see “Writing on GitHub” in the GitHub Help.
 
-[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102)
+[Back to Table of Contents](https://karenmal.github.io/Reading-notes-JavaScript-102/)
