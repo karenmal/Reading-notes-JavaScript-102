@@ -8,3 +8,5 @@ You can use Markdown most places around GitHub:
 3. Files with the .md or .markdown extension
 
 For more information, see “Writing on GitHub” in the GitHub Help.
+
+[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102)
