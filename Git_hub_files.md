@@ -7,3 +7,5 @@ When you continue to learn from your mistakes/setbacks/failures, you are challen
 • Do research if you run into problems . . . ask questions
 
 • Learn from others!
+
+- [Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/samples.md)
