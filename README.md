@@ -30,6 +30,8 @@ Growth Mindset | Fixed Mindset
 Embraces challenges | Avoids challenges
 Inspired by success of others | Threatened by success of others
 
-Revisions and the Cloud [Revisions_and_the_cloud](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/Revisions_and_the_cloud.md)
+
+
+[Revisions_and_the_cloud](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/Revisions_and_the_cloud.md)
 
 
