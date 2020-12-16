@@ -9,4 +9,4 @@
 3. Acts like a gatekeeper, keeps track of every single change to any file and/or directory.
 4. Files in gate can remain in three main states: commited, modified and staged. 
   
-[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102)
+[Back to Table of Contents](https://karenmal.github.io/Reading-notes-JavaScript-102/)
