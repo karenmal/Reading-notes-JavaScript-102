@@ -30,4 +30,6 @@ Growth Mindset | Fixed Mindset
 Embraces challenges | Avoids challenges
 Inspired by success of others | Threatened by success of others
 
+This site was built using [GitHub Pages](https://pages.github.com/)
+
 
