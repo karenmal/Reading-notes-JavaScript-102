@@ -8,4 +8,4 @@ When you continue to learn from your mistakes/setbacks/failures, you are challen
 
 • Learn from others!
 
-- [Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/samples.md)
+[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102/edit/main/README.md)
