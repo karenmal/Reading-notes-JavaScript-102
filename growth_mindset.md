@@ -4,4 +4,4 @@ Embraces challenges | Avoids challenges
 Inspired by success of others | Threatened by success of others
 
 
-[Back to Table of Contents](https://github.com/karenmal/Reading-notes-JavaScript-102)
+[Back to Table of Contents](https://karenmal.github.io/Reading-notes-JavaScript-102/)
