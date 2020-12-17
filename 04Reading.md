@@ -24,7 +24,7 @@
 1. Web pagess begin with DOCTYPE - tells browsers what version of HTML you're using. 
 2. Make comments <-- --> and they won't show up on web page.
 3. Identify elements with ID and class.
-4. You can group block-level and inline elements together using <div> and <span>.
+4. You can group block-level and inline elements together using div and span.
 5. Meta tags allows you to add lots of information to your page.
   
 [Back to Table of Contents](https://karenmal.github.io/Reading-notes-JavaScript-102/)
