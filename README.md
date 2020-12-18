@@ -10,5 +10,5 @@
 - [06a](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/06Areading.md)
 - [06b](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/06B.md)
 - [07](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/07Reading.md)
-- [08](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/08Reading.md)
+
 - [08](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/08Reading.md)
