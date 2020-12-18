@@ -7,4 +7,5 @@
 - [Markdown](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/markdown.md)
 - [Lab_03_Revisions_and_the_cloud](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/Lab_03_Revisions_and_the_cloud.md)
 - [04 Reading](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/04Reading.md)
+- [06a](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/06Areading.md)
 - [06b](https://github.com/karenmal/Reading-notes-JavaScript-102/blob/main/06B.md)
